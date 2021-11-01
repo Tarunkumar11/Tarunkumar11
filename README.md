@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  I’m currently working on frontend development
+  <h3>I’m currently working on frontend development</h3>
   <ul>
      <li>🌱 I’m currently learning  React-Native and Redux</li>
      <li>💬 Ask me about Web devlopemnt related  stuff.</li>
@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Tarunkumar11&style=flat-square&label=Visits)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)
 
 ![Tarun's Github](https://github-readme-stats.vercel.app/api?username=Tarunkumar11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,issues)
 
@@ -33,7 +33,7 @@
 
 
 
--
+
 <!--
 **Tarunkumar11/Tarunkumar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
