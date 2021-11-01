@@ -13,10 +13,10 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Tarunkumar11&style=flat-square&label=Visits)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)](https://github.com/Tarunkumar11/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)](https://github.com/Tarunkumar11/github-readme-stats)
 
 
-![Tarun's Github](<img src="https://github-readme-stats.vercel.app/api?username=Tarunkumar11&count_private=true&show_icons=true&theme=onedark&hide=prs,issues,contribs />)
+![Tarun's Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
