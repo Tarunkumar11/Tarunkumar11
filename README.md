@@ -24,12 +24,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Tarunkumar11&style=flat-square&label=Visits)
 
-<p style="
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/35bd2e1a261a55b60e1b2d63afcd2aef1188b3fcc87784d84a7719d071876e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d546172756e6b756d61723131266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/35bd2e1a261a55b60e1b2d63afcd2aef1188b3fcc87784d84a7719d071876e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d546172756e6b756d61723131266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&amp;layout=compact" style="max-width: 100%;"></a> <a target="_blank" style="max-width: 100%;height: 10.5em; rel="noopener noreferrer" href="https://camo.githubusercontent.com/41415bcf82e5662cd18e30b5cad62803ef39251834ced8b30b81a78558dcf633/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d546172756e6b756d617231312662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d66666626686964653d73746172732c697373756573"><img src="https://camo.githubusercontent.com/41415bcf82e5662cd18e30b5cad62803ef39251834ced8b30b81a78558dcf633/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d546172756e6b756d617231312662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d66666626686964653d73746172732c697373756573" alt="Tarun's Github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Tarunkumar11&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;hide=stars,issues" style="max-width: 100%;height: 10.5em;"></a></p>
 
+<p align="left" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact" width="500px">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarunkumar11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,issues" height="200px">
+</p>
+
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact) 
+<br><br>
+![Tarun's Github](https://github-readme-stats.vercel.app/api?username=Tarunkumar11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,issues) -->
 
 
 
