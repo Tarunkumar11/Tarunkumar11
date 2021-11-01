@@ -1,5 +1,9 @@
-### Hi there 👋
+### I am Traun Kumar 👋
 
+
+I’m currently working on frontend development
+- 🌱 I’m currently learning  React-Native and Redux
+- 💬 Ask me about Web devlopemnt related  stuff.
 <!--
 **Tarunkumar11/Tarunkumar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
