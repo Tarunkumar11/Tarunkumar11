@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)](https://github.com/Tarunkumar11/github-readme-stats)
 
 
-![Tarun's Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Tarun's Github](https://github-readme-stats.vercel.app/api?username=Tarunkumar11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,issues)
 
 
 
@@ -25,8 +25,7 @@
 I’m currently working on frontend development
 - 🌱 I’m currently learning  React-Native and Redux
 - 💬 Ask me about Web devlopemnt related  stuff.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tarunkumar11&count_private=true&show_icons=true&theme=onedark&hide=prs,issues,contribs />
+-
 <!--
 **Tarunkumar11/Tarunkumar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
