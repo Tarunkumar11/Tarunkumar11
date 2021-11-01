@@ -22,9 +22,9 @@
 
 
 
-<p>![](https://komarev.com/ghpvc/?username=Tarunkumar11&style=flat-square&label=Visits)</p>
+![](https://komarev.com/ghpvc/?username=Tarunkumar11&style=flat-square&label=Visits)
 
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)]</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar11&layout=compact)]
 
 ![Tarun's Github](https://github-readme-stats.vercel.app/api?username=Tarunkumar11&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,issues)
 
