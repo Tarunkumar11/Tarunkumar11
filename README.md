@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <h3>I’m currently working on frontend development</h3>
+  <h3>I’m currently working on backend as well as frontend development</h3>
   <ul>
      <li>🌱 I’m currently learning  React-Native and Redux</li>
      <li>💬 Ask me about Web devlopemnt related  stuff.</li>
